@@ -21,4 +21,4 @@ Simulation eines Kreditportfolios zur Berechnung des Expected Credit Loss (ECL) 
 - Tabellen und Charts zur Darstellung von Risikokonzentrationen
 
 ## Hinweis
-Alle Daten sind simuliert. Projekt dient zur Demonstration von Excel- und Risikomanagement-Kompetenz.
+Alle Daten sind simuliert. Projekt dient zur Demonstration von Tabellenkalkulations- und Risikomanagement-Kompetenz.
