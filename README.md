@@ -1,7 +1,8 @@
 # Excel-based Expected Credit Loss (ECL) Model – IFRS 9 Framework
 
 ## Projektbeschreibung
-Simulation eines Kreditportfolios zur Berechnung des Expected Credit Loss (ECL) nach IFRS 9. Ziel: Excel-basiertes Kreditrisikomodell mit Szenarioanalyse und Dashboard.
+Simulation eines Kreditportfolios zur Berechnung des Expected Credit Loss (ECL) nach IFRS 9. Ziel: 
+Implementierung eines Kreditrisikomodell mit Szenarioanalyse und Dashboard in Apple Numbers
 
 ## Portfolio
 - 60 Kredite, Ratings: A, BBB, BB, B
